@@ -1,0 +1,6 @@
+# 아래 명령어는 블렌더가 설치되어 있을 때 블렌더를 GUI없이 실행시켜서 스크립트를 돌려볼 수 있는 코드이며 
+# "programfiles에서 찾을 수 있는 블렌더 경로에 있는 blender.exe" -b -P "실행하려는 파이썬 코드의 경로"
+대로 바꿔서 입력하면 된다
+
+
+& "C:\Program Files\Blender Foundation\Blender 3.6\blender.exe" -b -P "C:\Users\user\Desktop\forrendering\3Drender.py"

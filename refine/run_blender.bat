@@ -1,0 +1,1 @@
+"C:\Program Files\Blender Foundation\Blender 3.6\blender.exe" -b -P "%~dp0\run_blender.py" -- "%~1" "%~2" "%~3"
