@@ -2,8 +2,8 @@
 get3D(3D 생성모델) 의 결과물을 개선시키는 프로세스
 
 준비해야할 프로그램
-1. blender 3.6.4 c드라이브에 설치
-2. pip numpy install
+1. blender 3.6.4를 c드라이브에 설치
+2. pip install numpy
 
 
 개선 프로세스 수행 과정
