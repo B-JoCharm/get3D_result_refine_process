@@ -13,3 +13,4 @@ get3D(3D 생성모델) 의 결과물을 개선시키는 프로세스
 
 
 get3D의 예시 파일은 아래의 구글드라이브 링크에서 받아볼 수 있음.
+https://drive.google.com/file/d/11K1QsfyjH6U5mEIIWzR3_lND2Iymh-1n/view?usp=drive_link
