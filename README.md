@@ -15,5 +15,11 @@ get3D(3D 생성모델) 의 결과물을 개선시키는 프로세스
 *여러개의 obj파일을 한번에 개선시키고 싶다면 improve_in_directory.py를 실행시키고, 
 개선을 원하는 obj파일들이 들어있는 디렉토리를 선택하면 된다.
 
+개선 프로세스 결과물
+1. 3d모델 파일 (obj,mtl,png)
+2. comparison 파일 : 원본과 비교하여 정량적 품질 상승 간단히 표시
+3. meshstatus 파일 : 개선모델의 정량적 분석 지표
+4. data json 파일 : 분석 프로세스로 분석을 할 수 있는 json파일
+
 get3D의 예시 파일은 아래의 구글드라이브 링크에서 받아볼 수 있음.
-https://drive.google.com/file/d/11K1QsfyjH6U5mEIIWzR3_lND2Iymh-1n/view?usp=drive_link
+https://drive.google.com/file/d/1WIwdWUD4fxtPhrJ19VHHBGZpP8buIF8M/view?usp=sharing
